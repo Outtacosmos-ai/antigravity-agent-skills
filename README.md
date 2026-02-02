@@ -6,6 +6,8 @@ Read the blog post: https://medium.com/google-cloud/tutorial-getting-started-wit
 
 Do a codelab: https://codelabs.developers.google.com/getting-started-with-antigravity-skills?hl=en#0
 
+Check out [Google Antigravity Community Hub](https://github.com/rominirani/google-antigravity-community-hub) too for resources, articles and more on Antigravity. 
+
 ## Overview
 
 Antigravity Skills allow you to define *how* an agent should behave, what tools it should use, and what context it should reference. This project breaks down skill development into 5 levels of complexity.
