@@ -1,0 +1,8 @@
+.venv/
+.adk/
+__pycache__/
+*.db
+.env
+.agents/
+.google-agents-cli/
+.DS_Store
