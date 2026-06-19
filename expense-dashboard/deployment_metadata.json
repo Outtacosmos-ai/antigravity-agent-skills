@@ -1,0 +1,7 @@
+{
+  "agent_name": "ambient_expense_agent",
+  "runtime_id": "mock-runtime-region-global-12345",
+  "project_id": "simulated-zero-cost-enterprise",
+  "status": "DEPLOYED",
+  "architecture": "event-driven-hitl"
+}
